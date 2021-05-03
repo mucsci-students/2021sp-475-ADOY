@@ -26,7 +26,7 @@ MacOS
 3. Open a terminal in the directory of ADOYMac.app and copy these commands
     1. `cd ADOYMac.app/Contents/MacOS`
     2. `chmod +x "ADOY"`
-4. You should now be able to run .app
+4. You should now be able to run ADOYMac.app
 
 ## Assets
 
