@@ -2,7 +2,8 @@
 
 ***Note: game make take a few seconds to load when clicking start. It will load, be patient***
 
-***Playability Note: HE cant go through doors***
+***Playability Note: HE cant go through doors. Only YOU can.***
+
 Made using Unity's Navmesh System for the AI.
 
 ## Download Links
